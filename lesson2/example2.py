@@ -11,9 +11,7 @@ for i in range(0, my_list_size):
 i = 0
 x = 0 if len(my_list) % 2 == 0 else 1
 while i < len(my_list) - x:
-    cur = my_list[i]
-    my_list[i] = my_list[i + 1]
-    my_list[i + 1] = cur
+    my_list[i], my_list[i + 1] = my_list[i + 1], my_list[i]
     i += 2
 print(my_list)
 
