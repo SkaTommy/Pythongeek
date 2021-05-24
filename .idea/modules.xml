@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/.idea/Pythongeek.iml" filepath="$PROJECT_DIR$/.idea/Pythongeek.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/lesson1.iml" filepath="$PROJECT_DIR$/lesson1.iml" />
->>>>>>> lesson2
+      <module fileurl="file://$PROJECT_DIR$/Pythongeek_all.iml" filepath="$PROJECT_DIR$/Pythongeek_all.iml" />
     </modules>
   </component>
 </project>
