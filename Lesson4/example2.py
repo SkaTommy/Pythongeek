@@ -2,5 +2,4 @@
 # значения которых больше предыдущего элемента.
 
 numList = [300, 2, 12, 44, 1, 1, 4, 10, 7, 1, 78, 123, 55]
-newList = [el for el in numList if el > numList[numList.index(el)-1]]
-print(newList)
+print([el for el in numList if el > numList[numList.index(el)-1]])
