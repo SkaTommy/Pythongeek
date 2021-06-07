@@ -56,9 +56,6 @@ class Police(Car):
             print('Это обычная машина.')
 
 
-
-
-#
 my_road = Car(60, 'red', 'ford', 'is_police')
 my_road.go()
 my_road.stop()
